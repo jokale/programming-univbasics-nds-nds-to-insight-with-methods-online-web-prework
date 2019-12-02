@@ -12,9 +12,7 @@ end
 
 # Find a way to accumulate the :worldwide_grosses and return that Integer
 # using director_data as input
-def gross_for_director(director_data)
-  p director_data[:worldwide_gross]
-end
+
   #   counter_two = 0 
   #   while counter_two < director_data.length do 
   #     worldwide_gross_total = directors_totals(nds,counter,counter_two)
